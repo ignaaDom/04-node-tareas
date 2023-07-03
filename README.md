@@ -1,4 +1,4 @@
-#Notas
+#Notas:
 
 Informacion sobre lo que puede hacer la aplicación: 
 ```

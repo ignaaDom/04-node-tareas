@@ -1,4 +1,4 @@
-require('colors');
+const colors = require('colors');
 
 const mostrarMenu = () =>{
 
